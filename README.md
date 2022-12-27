@@ -49,7 +49,7 @@ endstep0-->
 -->
 
 <details id=1>
-<summary><h2>Step 1: Enable GitHub Pages</h2></summary>
+<summary><h2>Step 1: Enable ITOpsPages Pages</h2></summary>
 
 _Welcome to GitHub Pages and Jekyll :tada:!_
 
